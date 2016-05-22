@@ -1,4 +1,4 @@
-#CChapter 6: Arrays
+#Chapter 6: Arrays
 
 ##Overview
 
